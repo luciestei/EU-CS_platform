@@ -71,7 +71,7 @@ msgstr "Saisir une nouvelle fois le mot de passe"
 #: .\src\accounts\forms.py:95 .\src\accounts\forms.py:116
 #: .\src\profiles\templates\profiles\edit_profile.html:53
 msgid "Change Password"
-msgstr "ModifierChanger le mot de passe"
+msgstr "Modifier le mot de passe"
 
 #: .\src\accounts\forms.py:105
 msgid "Enter email"
@@ -97,7 +97,7 @@ msgstr "Bienvenue sur EU-Citizen.Science."
 
 #: .\src\blog\templates\blog.html:34
 msgid "Read More"
-msgstr "En savoirLire plus"
+msgstr "En savoir plus"
 
 #: .\src\contact\templates\contact.html:10
 #: .\src\contact\templates\contact.html:19
@@ -128,19 +128,19 @@ msgstr "Merci pour votre message."
 
 #: .\src\events\forms.py:8
 msgid "Title of the event"
-msgstr ""
+msgstr "Nom de l'événement"
 
 #: .\src\events\forms.py:9
 msgid "A brief description of the event"
-msgstr ""
+msgstr "Brève description de l'évènement"
 
 #: .\src\events\forms.py:10
 msgid "Location of the Event"
-msgstr ""
+msgstr "Lieu de l'événement"
 
 #: .\src\events\forms.py:14
 msgid "Please provide a URL to an external web site for the event"
-msgstr ""
+msgstr "Veuillez ajouter un lien vers le site internet de cet événement"
 
 #: .\src\events\templates\editEvent.html:25
 msgid "Edit event"
@@ -339,7 +339,7 @@ msgid ""
 "involved in, and the Resource Profiles of the resources that were published "
 "by your organisation."
 msgstr ""
-"Ceci peut être lié aux profils personnels des membrespersonnes de votre "
+"Ceci peut être lié aux profils personnels des membres de votre "
 "organisation, aux profils de projets dans lesquels votre organisation est "
 "impliquée, et aux profils des ressources qui ont été publiées par votre "
 "organisation."
@@ -369,20 +369,20 @@ msgstr ""
 #: .\src\projects\templates\editProject.html:64
 #: .\src\resources\templates\editResource.html:59
 msgid "Confirm delete"
-msgstr "Confirmer la suppressionl’effacement"
+msgstr "Confirmer la suppression"
 
 #: .\src\organisations\templates\organisation.html:25
 msgid ""
 "You are going to delete this organisation, this procedure is irreversible."
 msgstr ""
-"Vous êtes sur le point de supprimer’effacer cette organisation, cette action "
+"Vous êtes sur le point de supprimer cette organisation, cette action "
 "est irréversible."
 
 #: .\src\organisations\templates\organisation.html:26
 #: .\src\projects\templates\editProject.html:69
 #: .\src\resources\templates\editResource.html:64
 msgid "Do you want to proceed?"
-msgstr "Souhaitez-vous cConfirmer cette l’action ?"
+msgstr "Souhaitez-vous confirmer cette l’action ?"
 
 #: .\src\organisations\templates\organisation.html:30
 #: .\src\projects\templates\editProject.html:73
@@ -390,7 +390,7 @@ msgstr "Souhaitez-vous cConfirmer cette l’action ?"
 #: .\src\resources\templates\editResource.html:68
 #: .\src\resources\templates\editResource.html:87
 msgid "Delete"
-msgstr "SupprimerEffacer"
+msgstr "Supprimer"
 
 #: .\src\organisations\templates\organisation.html:44
 #: .\src\projects\forms.py:89
@@ -399,7 +399,7 @@ msgstr "Adresse e-mail du point de contact"
 
 #: .\src\organisations\templates\organisation.html:53
 msgid "Go to Organisation"
-msgstr "Site de l’Aller à l’organisation"
+msgstr "Site de l’organisation"
 
 #: .\src\organisations\templates\organisation.html:59
 #: .\src\templates\_subnavbar.html:12 .\src\templates\about.html:55
@@ -419,7 +419,7 @@ msgstr "Membres"
 
 #: .\src\organisations\templates\organisation.html:94
 msgid "Delete Organisation"
-msgstr "SupprimerEffacer l’organisation"
+msgstr "Supprimer l’organisation"
 
 #: .\src\organisations\templates\organisation.html:97
 msgid "Edit Organisation"
@@ -434,11 +434,11 @@ msgstr "Organisation"
 #: .\src\profiles\forms.py:48
 msgid ""
 "Please write or select interest areas, separated by commas or pressing enter"
-msgstr ""
+msgstr "Veuillez indiquer vos centres d'intérêt, en les séparant par une virgule ou en appuyant sur Entrée"
 
 #: .\src\profiles\models.py:23
 msgid "Profile picture"
-msgstr ""
+msgstr "Image de profil"
 
 #: .\src\profiles\models.py:25
 #: .\src\profiles\templates\profiles\show_profile.html:43
@@ -451,7 +451,7 @@ msgstr "Biographie et curriculum vitae"
 
 #: .\src\profiles\models.py:30
 msgid "Email verified"
-msgstr ""
+msgstr "Email vérifié"
 
 #: .\src\profiles\models.py:31
 msgid ""
@@ -494,7 +494,7 @@ msgstr "Ma bibliothèque"
 
 #: .\src\profiles\templates\profiles\show_profile.html:30
 msgid "Delete Profile"
-msgstr ""
+msgstr "Supprimer le profil"
 
 #: .\src\profiles\templates\profiles\show_profile.html:31
 msgid "Edit Profile"
@@ -510,7 +510,7 @@ msgstr "Joint"
 
 #: .\src\profiles\templates\profiles\show_profile.html:40
 msgid "Last seen"
-msgstr "Dernières consultationsDerniers vus"
+msgstr "Dernières consultations"
 
 #: .\src\profiles\templates\profiles\show_profile.html:44
 msgid "Bio and disciplinary background"
@@ -526,13 +526,13 @@ msgstr "Centres d’intérêt"
 
 #: .\src\projects\forms.py:21
 msgid "Short name or title of the project"
-msgstr ""
+msgstr "Nom du projet"
 
 #: .\src\projects\forms.py:24
 msgid ""
 "Please enter 2-3 keywords (comma separated) or pressing enter to further "
 "describe your project and assist search on the platform"
-msgstr ""
+msgstr "Veuillez indiquer 2-3 mots clés (en les séparant par une virguleou en pressant Entrée) pour décrire votre projet et faciliter l'outil de recherche"
 
 #: .\src\projects\forms.py:24 .\src\projects\templates\project.html:67
 #: .\src\projects\templates\project.html:189
@@ -543,54 +543,54 @@ msgstr "Mots-clés"
 
 #: .\src\projects\forms.py:27
 msgid "Primary aim, goal or objective of the project. Max 2000 characters"
-msgstr ""
+msgstr "Objectif principal du projet. 2000 caractères maximum"
 
 #: .\src\projects\forms.py:30
 msgid ""
 "Please describe the citizen science aspect(s) of the project - see the <a "
 "href=\"https://zenodo.org/communities/citscicharacteristics\">ECSA "
 "Characteristics of Citizen Science</a> for guidance"
-msgstr ""
+msgstr "Veuillez décrire en quoi votre projet et un projet de sciences participatives - vous pouvre vous référer aux <a "href=\"https://zenodo.org/communities/citscicharacteristics\">Caractéristiques des science citoyennes développées par ECSA</a> pour plus d'informations"
 
 #: .\src\projects\forms.py:34
 msgid "The project topic(s) or field(s) of science, multiple selection"
-msgstr ""
+msgstr "Domaine scientifique (plusieurs choix possibles)"
 
 #: .\src\projects\forms.py:35 .\src\projects\templates\finder_projects.html:61
 msgid "Topic"
-msgstr ""
+msgstr "Sujet"
 
 #: .\src\projects\forms.py:38
 msgid "Please select the task(s) undertaken by participants"
-msgstr ""
+msgstr "Veuillez sélectionner les types de tâches effectuées par les participants"
 
 #: .\src\projects\forms.py:39
 msgid "Participation Task"
-msgstr ""
+msgstr "Tâche de participation"
 
 #: .\src\projects\forms.py:43
 msgid "Activity Status"
-msgstr ""
+msgstr "Statut"
 
 #: .\src\projects\forms.py:44
 msgid "Select one"
-msgstr ""
+msgstr "Veuillez en sélectionner un"
 
 #: .\src\projects\forms.py:47
 msgid "Closest approximate start date of the project"
-msgstr ""
+msgstr "Date de début du projet"
 
 #: .\src\projects\forms.py:50
 msgid "Approximate end date of the project"
-msgstr ""
+msgstr "Date de fin du projet"
 
 #: .\src\projects\forms.py:53
 msgid "Please provide a URL to an external web site for the project"
-msgstr ""
+msgstr "Veuillez indiquer le site internet du projet"
 
 #: .\src\projects\forms.py:57
 msgid "Please indicate the spatial scale of the projec"
-msgstr ""
+msgstr "Veuillez indiquer la localisation géographique du projet"
 
 #: .\src\projects\forms.py:58
 msgid "Geographic Extend"
@@ -615,7 +615,7 @@ msgstr ""
 
 #: .\src\projects\forms.py:69
 msgid "Lead Organisation / Coordinator"
-msgstr ""
+msgstr "Coordinateur"
 
 #: .\src\projects\forms.py:72
 msgid ""
@@ -626,11 +626,11 @@ msgstr ""
 
 #: .\src\projects\forms.py:74
 msgid "Other Organisations"
-msgstr ""
+msgstr "Autres organisations impliquées"
 
 #: .\src\projects\forms.py:85
 msgid "Please name the contact person or contact point for the Project"
-msgstr ""
+msgstr "Veuillez indiquer la personne de contact pour ce projet"
 
 #: .\src\projects\forms.py:85
 msgid "Public Contact Point"
@@ -642,11 +642,11 @@ msgstr ""
 
 #: .\src\projects\forms.py:92
 msgid "Project image for the thumbnail profile"
-msgstr ""
+msgstr "Image - vignette du projet"
 
 #: .\src\projects\forms.py:93
 msgid "Will be resized to 600x400 pixels"
-msgstr ""
+msgstr "Sera redimensionnée à 600x400 pixels"
 
 #: .\src\projects\forms.py:99 .\src\projects\forms.py:113
 msgid "provide image credit, if applicable"
@@ -654,64 +654,64 @@ msgstr ""
 
 #: .\src\projects\forms.py:100
 msgid "Project Logo"
-msgstr ""
+msgstr "Logo du projet"
 
 #: .\src\projects\forms.py:101
 msgid "Will be resized to 600x400 pixels)"
-msgstr ""
+msgstr "Sera redimensionné à 600x400 pixels"
 
 #: .\src\projects\forms.py:107
 msgid "provide Logo credit, if applicable"
-msgstr ""
+msgstr "Veuillez fournir les crédits du logo, si besoin"
 
 #: .\src\projects\forms.py:108
 msgid "Project image for the profile heading"
-msgstr ""
+msgstr "Image du projet pour l'en-tête"
 
 #: .\src\projects\forms.py:109
 msgid "Will be resized to 1100x400 pixels"
-msgstr ""
+msgstr "Sera redimensionnée à 1100x400 pixels"
 
 #: .\src\projects\forms.py:124
 msgid "Please describe how people can get involved in the project"
-msgstr ""
+msgstr "Veuillez indiquer comment participer à ce projet"
 
 #: .\src\projects\forms.py:125
 msgid "Can participate at home"
-msgstr ""
+msgstr "Peut être fait depuis chez soi"
 
 #: .\src\projects\forms.py:128
 msgid "Describe any required or suggested equipment to be used in the project"
-msgstr ""
+msgstr "Veuillez décrire l'équipement nécessaire ou suggéré pour ce project"
 
 #: .\src\projects\forms.py:131
 msgid ""
 "Please enter the funding agencies of the project (e.g. European "
 "Commission).         Select them from the list or add your own ended by "
 "comma or pressing enter"
-msgstr ""
+msgstr "Veuillez préciser les organismes de subvention (par ex. la Commission Européenne). Vous pouvez les sélectionner dans la liste, ou bien les ajouter directement, en les séparant par une virgule ou en pressant Entrée"
 
 #: .\src\projects\forms.py:132
 msgid ""
 "Funding body (Put a comma after each name or pressing enter to add a new "
 "funding body)"
-msgstr ""
+msgstr "Organismes de subvention (séparés par une virgule ou en pressant Entrée)"
 
 #: .\src\projects\forms.py:136
 msgid "Indication of the programme that funds or funded a project"
-msgstr ""
+msgstr "Veuillez indiquer le programme qui finance ce projet"
 
 #: .\src\projects\forms.py:139
 msgid ""
 "Do you know the name of the database where the project first appeared?, add "
 "it here ended by comma or pressing enter."
-msgstr ""
+msgstr "Connaissez vous la base de données sur laquelle le projet est mentioné pour la première fois? Ajoutez-la ici en finissant par une virgule ou en pressant Entrée"
 
 #: .\src\projects\forms.py:144
 msgid ""
 "Do you know the Unique identificator of the project in the previous "
 "database?, add it here."
-msgstr ""
+msgstr "Connaissez vous l'identifiant du projet dans cette base de données? Veuillez l'indiquer"
 
 #: .\src\projects\forms.py:145
 msgid "Origin UID"
@@ -719,15 +719,15 @@ msgstr ""
 
 #: .\src\projects\forms.py:148
 msgid "Do you know the origin URL in the previous database?, add it here"
-msgstr ""
+msgstr "Connaissez vous l'URL du projet cans cette base de données? Veuillez l'indiquer"
 
 #: .\src\projects\forms.py:148
 msgid "Origin URL"
-msgstr ""
+msgstr "URL"
 
 #: .\src\projects\templates\editProject.html:68
 msgid "You are going to delete this project, this procedure is irreversible."
-msgstr ""
+msgstr "Vous êtes sur le point de supprimer ce projet, cette action est irréversible"
 
 #: .\src\projects\templates\editProject.html:87
 msgid "Edit project"
@@ -736,52 +736,52 @@ msgstr "Modifier le profil"
 #: .\src\projects\templates\editProject.html:119
 #: .\src\projects\templates\new_project.html:116
 msgid "Project info"
-msgstr ""
+msgstr "Information du projet"
 
 #: .\src\projects\templates\editProject.html:173
 #: .\src\projects\templates\new_project.html:173
 msgid "Contact details"
-msgstr ""
+msgstr "Coordonnées"
 
 #: .\src\projects\templates\editProject.html:189
 #: .\src\projects\templates\new_project.html:188
 msgid "Project profile images"
-msgstr ""
+msgstr "Image de profil du projet"
 
 #: .\src\projects\templates\editProject.html:251
 #: .\src\projects\templates\new_project.html:236
 msgid "Geography"
-msgstr ""
+msgstr "Localisation"
 
 #: .\src\projects\templates\editProject.html:252
 msgid ""
 "Main location where the project takes place (Enter address or click on the "
 "map)"
-msgstr ""
+msgstr "Localisation principale du projet (Veuillez écrire l'adresse ou bien cliquer sur la carte"
 
 #: .\src\projects\templates\editProject.html:269
 #: .\src\projects\templates\new_project.html:261
 msgid "Supplementary information for Citizen Science"
-msgstr ""
+msgstr "Informations supplémentaires"
 
 #: .\src\projects\templates\editProject.html:285
 #: .\src\projects\templates\new_project.html:276
 msgid "Funding"
-msgstr ""
+msgstr "Financement"
 
 #: .\src\projects\templates\editProject.html:298
 #: .\src\projects\templates\new_project.html:289
 msgid "Origin information"
-msgstr ""
+msgstr "Information d'origine"
 
 #: .\src\projects\templates\editProject.html:316
 msgid "Custom fields"
-msgstr ""
+msgstr "Champs libres"
 
 #: .\src\projects\templates\finder_projects.html:33
 #: .\src\resources\templates\finder_resources.html:22
 msgid "Sort by Most Recent Updated"
-msgstr "Trier par Mise à jour la plus récente"
+msgstr "Trier par Mise à jour récente"
 
 #: .\src\projects\templates\finder_projects.html:34
 #: .\src\resources\templates\finder_resources.html:23
@@ -796,19 +796,19 @@ msgstr "Trier par notation"
 #: .\src\projects\templates\finder_projects.html:46
 #: .\src\projects\templates\project.html:53
 msgid "Status"
-msgstr ""
+msgstr "Statut"
 
 #: .\src\projects\templates\finder_projects.html:69
 msgid "Doable at home"
-msgstr ""
+msgstr "Faisable à la maison"
 
 #: .\src\projects\templates\finder_projects.html:70
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: .\src\projects\templates\finder_projects.html:71
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: .\src\projects\templates\finder_projects.html:74
 #: .\src\resources\templates\finder_resources.html:61
@@ -818,7 +818,7 @@ msgstr "Validées par le modérateur"
 #: .\src\projects\templates\finder_projects.html:75
 #: .\src\resources\templates\finder_resources.html:62
 msgid "Not yet moderated"
-msgstr "En cours de validationrévision par l’administrateurle modérateur"
+msgstr "En cours de validation par le modérateur"
 
 #: .\src\projects\templates\finder_projects.html:76
 #: .\src\resources\templates\finder_resources.html:63
@@ -828,7 +828,7 @@ msgstr "Tout"
 
 #: .\src\projects\templates\finder_projects.html:93
 msgid "Clear current search query and filters"
-msgstr ""
+msgstr "Réinitialiser la recherche et les filtres"
 
 #: .\src\projects\templates\modal_projects.html:8
 #: .\src\resources\templates\modal_resources.html:8
@@ -843,7 +843,7 @@ msgstr "Recherche"
 #: .\src\projects\templates\modal_projects.html:14
 msgid ""
 "projects by title or keywords by typing text directly into the the search bar"
-msgstr ""
+msgstr "de projet par titre ou mots-clés en les tapant directement dnas la barre de recherche"
 
 #: .\src\projects\templates\modal_projects.html:15
 #: .\src\resources\templates\modal_resources.html:15
@@ -852,7 +852,7 @@ msgstr "Trier"
 
 #: .\src\projects\templates\modal_projects.html:15
 msgid "projects by date or by rating"
-msgstr ""
+msgstr "les projets par date ou notation"
 
 #: .\src\projects\templates\modal_projects.html:16
 #: .\src\resources\templates\modal_resources.html:16
@@ -861,7 +861,7 @@ msgstr "Filtrer"
 
 #: .\src\projects\templates\modal_projects.html:16
 msgid "search results by project status, country, or topic"
-msgstr ""
+msgstr "Chercher par statut du projet, pays ou thème"
 
 #: .\src\projects\templates\modal_projects.html:18
 msgid ""
@@ -870,9 +870,9 @@ msgid ""
 "for 'not yet moderated' or 'All'."
 msgstr ""
 "Les ressources soumises qui sont passées par la procédure de "
-"validationmodération sont marquées comme ‘Validées par le modérateur’. Ce "
+"modération sont marquées comme ‘Validées par le modérateur’. Ce "
 "sont les seules qui apparaîtront dans les résultats de la recherche, sauf si "
-"vous filtrez par ‘En cours de révision par l’administrateure modérateur’’ ou "
+"vous filtrez par ‘En cours de révision par le modérateur’’ ou "
 "‘Tout’."
 
 #: .\src\projects\templates\modal_projects.html:20
@@ -884,7 +884,7 @@ msgstr "En savoir plus sur notre"
 #: .\src\projects\templates\new_project.html:103
 #: .\src\resources\templates\modal_resources.html:20
 msgid "moderation process"
-msgstr "procédure de validationmodération"
+msgstr "procédure de modération"
 
 #: .\src\projects\templates\new_project.html:65
 msgid "Project is going to saved"
@@ -901,25 +901,27 @@ msgid ""
 "Citizen.Science moderation team, who will check it to ensure that all of the "
 "projects shared on the platform can indeed be considered citizen science "
 "projects."
-msgstr ""
+msgstr "Merci pour avoir soumis votre projet. Il a été transmis à l'équipe de modération d'EU-Citizen.Science, qui s'assure que tous les projets ajoutés sont bien considérés comme des sciences participatives"
 
 #: .\src\projects\templates\new_project.html:75
 msgid ""
 "We will be in touch with you if we have any questions, and otherwise you "
 "will see that your project changes from 'not yet moderated' to 'moderated' "
 "on the platform."
-msgstr ""
+msgstr "Nous vous contacterons si en cas de doute. Sinon, vous verrez votre projet passer de 'En cours de modération' à 'modéré'."
 
 #: .\src\projects\templates\new_project.html:76
 msgid ""
 "You can make updates or changes to this project profile at any time, by "
 "going to the Submitted projects section in your Personal Area (see the top-"
 "right of the platform menu)."
-msgstr ""
+msgstr "Vous pouvez mettre à jour ou modifier ce projet à tout moment, en "
+"allant dans la section 'Ressources soumises' dans votre Espace personnel "
+"(voir en haut à droite dans le menu de la plateforme)."
 
 #: .\src\projects\templates\new_project.html:94
 msgid "New project"
-msgstr ""
+msgstr "Nouveau projet"
 
 #: .\src\projects\templates\new_project.html:95
 msgid ""
@@ -928,6 +930,10 @@ msgid ""
 "below (indicated with an asterisk*), and as much of the non-mandatory "
 "information as possible."
 msgstr ""
+"Merci de partager votre projet de sciences participatives sur la plateforme."
+"Merci de remplir toutes les informations demandées dans les champs "
+"obligatoires ci-dessous (indiqués par une astérisque *), et autant "
+"d’informations non-obligatoires que possible."
 
 #: .\src\projects\templates\new_project.html:96
 msgid ""
@@ -982,7 +988,7 @@ msgstr ""
 #: .\src\projects\templates\new_project.html:112
 #: .\src\projects\templates\new_project.html:307
 msgid "Submit"
-msgstr ""
+msgstr "Envoyer"
 
 #: .\src\projects\templates\new_project.html:237
 msgid ""
@@ -1062,11 +1068,11 @@ msgstr ""
 
 #: .\src\projects\templates\project.html:156
 msgid "How to participate:"
-msgstr ""
+msgstr "Comment participer"
 
 #: .\src\projects\templates\project.html:159
 msgid "Needed equipment:"
-msgstr ""
+msgstr "Matériel nécessaire"
 
 #: .\src\projects\templates\project.html:161
 msgid "Participation task"
@@ -1079,7 +1085,7 @@ msgstr "Evaluer et commenter"
 
 #: .\src\resources\forms.py:19
 msgid "Insert here the title or name of the resource"
-msgstr "Saisir ici le titre ouet le nom de la ressource"
+msgstr "Saisir ici le titre ou le nom de la ressource"
 
 #: .\src\resources\forms.py:22
 msgid ""
@@ -1092,7 +1098,7 @@ msgstr ""
 #: .\src\resources\forms.py:26
 msgid "Please briefly describe the resource (ideally in 500 words or less)"
 msgstr ""
-"Veuillez donner une brève description deDécrivez brièvement la ressource (en "
+"Veuillez décrire brièvement la ressource (en "
 "500 mots maximum)"
 
 #: .\src\resources\forms.py:29
@@ -1104,8 +1110,8 @@ msgid ""
 "Select the audience(s) for which the resource is intended. Multiple options "
 "can be selected"
 msgstr ""
-"Sélectionner le ou les public(s) cible(s) a ou les audience(s) auquel/"
-"auxquelsaquelà laquelle/auxquelles la ressource est destinée. Plusieurs "
+"Sélectionner le ou les public(s) cible(s) auquel/"
+"auxquels la ressource est destinée. Plusieurs "
 "choix possibles."
 
 #: .\src\resources\forms.py:37
@@ -1113,8 +1119,8 @@ msgid ""
 "Please write or select keywords to describe the resource, separated by "
 "commas or pressing enter"
 msgstr ""
-"Veuillez éEcrire ou sélectionner les mots-clés qui décriventpour décrire la "
-"ressource, séparés par des virgules"
+"Veuillez écrire ou sélectionner les mots-clés pour décrire la "
+"ressource, en les séparant par des virgules ou en pressant Entrée"
 
 #: .\src\resources\forms.py:40
 msgid "The thematic content of the resource (select as many as apply)"
@@ -1140,8 +1146,8 @@ msgid ""
 "a comma or pressing enter to add an author,        or multiple authors. If "
 "not known, name the project within the resource was created."
 msgstr ""
-"Auteurs de la ressource. Saisir <i>FirstInitial LastName</i> et clore "
-"avecune virgule pour ajouter un auteur, ou des auteurs. Si l’auteur est "
+"Auteurs de la ressource. Saisir <i>FirstInitial LastName</i> et validez "
+"avec une virgule pour ajouter un auteur, ou des auteurs. Si l’auteur est "
 "inconnu, remplacez par le nom du projet au sein duquel la ressource a été "
 "créée"
 
@@ -1164,7 +1170,7 @@ msgid ""
 "new_organisation\">here</a > before submitting"
 msgstr ""
 "Organisation(s) qui contribue(nt) à la ressource (les entrées multiples "
-"doivent être séparées par des virgules). Si elles ne sont pas déjà dans la "
+"doivent être séparées par des virgules ou en pressant Entrée). Si elles ne sont pas déjà dans la "
 "liste, ajoutez-les <a href=\"/new_organisation\">ici</a > avant soumission."
 
 #: .\src\resources\forms.py:59 .\src\resources\templates\resource.html:102
@@ -1241,7 +1247,7 @@ msgid ""
 "bar"
 msgstr ""
 "ressources par titre ou mots-clés en tapant directement le texte dans la "
-"barrede recherche"
+"barre de recherche"
 
 #: .\src\resources\templates\modal_resources.html:15
 msgid "resources by date or by rating"
@@ -1258,9 +1264,9 @@ msgid ""
 "for 'not yet moderated' or 'All'."
 msgstr ""
 "Les ressources soumises qui sont passées par la procédure de "
-"validationmodération sont marquées comme ‘Validées par le modérateur’. Ce "
+"modération sont marquées comme ‘Validées par le modérateur’. Ce "
 "sont les seules qui apparaîtront dans les résultats de la recherche, sauf si "
-"vous filtrez par ‘En cours de révision par l’administrateure modérateur’’ ou "
+"vous filtrez par ‘En cours de révision par l’administrateure modérateur’ ou "
 "‘Tout’."
 
 #: .\src\resources\templates\new_resource.html:60
@@ -1274,9 +1280,9 @@ msgid ""
 "resources shared on the platform are indeed useful for citizen science "
 "projects and practitioners, and are of good quality."
 msgstr ""
-"Merci d’avoir soumis un profil ressource. Il a été envoyé auxà "
-"administrateursl’équipe de modération  de EU-Citizen.Science, qui le "
-"vérifieronta afin d’assurer que toutes les ressources partagées sur la "
+"Merci d’avoir soumis un profil ressource. Il a été envoyé à "
+"l’équipe de modération  de EU-Citizen.Science, qui le "
+"vérifiera afin d’assurer que toutes les ressources partagées sur la "
 "plateforme sont effectivement utiles aux participants et aux projets de "
 "sciences participatives, et sont de bonne qualité."
 
@@ -1287,11 +1293,11 @@ msgid ""
 "the platform. Your resource profile will be visible to the public in the "
 "meantime, but will be marked as unmoderated."
 msgstr ""
-"Nous vous recontacterons si nous avons des questions., sinon Si tout est "
-"conforme,  vous recevrez un message d’e alerte vous notifiant que votre "
-"ressource a été validée par l’administrateur a modération et qu’elle est "
-"publiée sur la plateforme. LeVotre profil de votre ressource sera entre "
-"temps  visible du public mais sera marquée comme n’étant pas encore validée "
+"Nous vous recontacterons en cas de doute. Si tout est "
+"conforme,  vous recevrez un message d’alerte vous notifiant que votre "
+"ressource a été validée par l’équipe de modération et qu’elle est "
+"publiée sur la plateforme. Le profil de votre ressource sera entre "
+"temps visible du public mais sera marquée comme n’étant pas encore validée "
 "par la modération."
 
 #: .\src\resources\templates\new_resource.html:74
@@ -1327,10 +1333,10 @@ msgid ""
 "in the fields below (indicated with an asterisk*), and as much of the non-"
 "mandatory information as possible."
 msgstr ""
-"Merci d’avoir proposé une nouvelle ressource ende sciences participatives "
+"Merci d’avoir proposé une nouvelle ressource de sciences participatives "
 "sur la plateforme EU-Citizen.Science. Veuillez compléter toutes les "
-"informations requisesobligatoires dans les champs ci-dessous (indiqués par "
-"une astérisque *), etand autant d’informations non obligatoires que possible."
+"informations requises dans les champs ci-dessous (indiqués par "
+"une astérisque *), et autant d’informations non obligatoires que possible."
 
 #: .\src\resources\templates\new_resource.html:95
 msgid ""
@@ -1339,8 +1345,8 @@ msgid ""
 "such as videos or podcasts. Read our blog post on Types of Resources."
 msgstr ""
 "Les ressources peuvent inclure des documents tels que des "
-"manuelsrecommandations, rapports,  notes de synthèse et des protocoles ; des "
-"outils tels que des software ou du matériel informatique, et d’autres "
+"recommandations, rapports, notes de synthèse et des protocoles ; des "
+"outils tels que des logiciels ou du matériel informatique, et d’autres "
 "formats de fichiers tels que des vidéos ou des podcasts. Lisez notre article "
 "de blog sur les Types de ressources."
 
@@ -1352,9 +1358,8 @@ msgid ""
 "are indeed useful for citizen science projects and practitioners, and are of "
 "good quality. Read more about "
 msgstr ""
-"Lors de l’enregistrement de ce profil,en votre ressource sera soumise pour "
-"validation à à modération par l’un des membres du consortium EU-Citizen."
-"Science. La procédure de validationmodération a pour but d’assurer que "
+"Lors de l’enregistrement de ce profil, votre ressource sera transmise "
+"à l'équipe de modération. La procédure de modération a pour but d’assurer que "
 "toutes les ressources partagées sur la plateforme sont effectivement utiles "
 "aux participants et aux projets de sciences participatives, et sont de bonne "
 "qualité. Plus d’informations Apprenez-en davantage sur "
@@ -1381,7 +1386,7 @@ msgstr ""
 
 #: .\src\resources\templates\new_resource.html:101
 msgid "Quality Guidelines"
-msgstr "Recommandations sur la de qualité des données"
+msgstr "Recommandations sur la qualité des données"
 
 #: .\src\resources\templates\new_resource.html:103
 msgid ""
@@ -1428,12 +1433,12 @@ msgstr "avis"
 
 #: .\src\resources\templates\resource.html:79
 msgid "Go to Training"
-msgstr "VoirAller à la Formation"
+msgstr "Voir la Formation"
 
 #: .\src\resources\templates\resource.html:82
 #: .\src\resources\templates\resource.html:111
 msgid "Go to Resource"
-msgstr "VoirAller à la Ressource"
+msgstr "Voir la Ressource"
 
 #: .\src\resources\templates\resource.html:93
 msgid "Learning Resource Type"
@@ -1441,7 +1446,7 @@ msgstr "Type de Ressource d’Apprentissage"
 
 #: .\src\resources\templates\resource.html:94
 msgid "Time required"
-msgstr "Ttemps requis"
+msgstr "Temps requis"
 
 #: .\src\resources\templates\resource.html:95
 msgid "Conditions of access"
@@ -1453,7 +1458,7 @@ msgstr "Licence"
 
 #: .\src\resources\templates\resource.html:100
 msgid "Audience"
-msgstr "Public cibleAudience"
+msgstr "Public cible"
 
 #: .\src\resources\templates\resource.html:101
 msgid "Publisher"
@@ -1483,11 +1488,11 @@ msgid ""
 "provide your feedback in the official"
 msgstr ""
 "Vous êtes dans la version alpha de la plateforme EU-Citizen.Science. Donnez "
-"votre impression dans la version ’officielle "
+"votre impression dans le "
 
 #: .\src\templates\_footer.html:13
 msgid "GitHub repository"
-msgstr "GitHub recueil d’informations"
+msgstr "recueil d’informations GitHub"
 
 #: .\src\templates\_footer.html:14
 msgid "here to subscribe to our newsletter"
@@ -1499,7 +1504,7 @@ msgid ""
 "2020 Framework Programme for Research and Innovation under grant agreement "
 "No. 824580"
 msgstr ""
-"Le projet EU-Citizen.Science est soutenu  par le programme-cadre de "
+"Le projet EU-Citizen.Science est financé par le programme-cadre de "
 "Recherche et d'Innovation Horizon 2020 de la Commission européenne "
 "(subvention n° 824580)"
 
@@ -1519,7 +1524,7 @@ msgstr "Protection de la vie privée"
 #: .\src\templates\_footer.html:75 .\src\templates\imprint.html:10
 #: .\src\templates\imprint.html:22
 msgid "Imprint"
-msgstr "Mmentions légales"
+msgstr "Mentions légales"
 
 #: .\src\templates\_footer.html:78
 msgid "Deliverables"
@@ -1535,7 +1540,7 @@ msgstr "Critères de qualité"
 
 #: .\src\templates\_footer.html:102
 msgid "Moderation"
-msgstr "ValidationModération"
+msgstr "Modération"
 
 #: .\src\templates\_footer.html:105 .\src\templates\development.html:10
 msgid "Development"
@@ -1580,11 +1585,11 @@ msgstr "Notre sélection Gold Star"
 
 #: .\src\templates\about.html:4 .\src\templates\about.html:8
 msgid "About"
-msgstr "A propos de"
+msgstr "A propos"
 
 #: .\src\templates\about.html:19
 msgid "Watch our teaser, in 12 different languages!"
-msgstr ""
+msgstr "Regardez notre teaser, disponible en 12 langues!"
 
 #: .\src\templates\about.html:44
 msgid "The Platform"
@@ -1628,7 +1633,7 @@ msgstr "Sur cette plateforme vous trouverez"
 #: .\src\templates\about.html:54
 msgid "that are useful for citizen science practitioners"
 msgstr ""
-"qui sont utiles aux acteurs en participants à la sciences participatives"
+"qui sont utiles aux acteurs de la sciences participatives"
 
 #: .\src\templates\about.html:55
 msgid "that are engaging the public in research via citizen science activities"
@@ -1639,7 +1644,7 @@ msgstr ""
 #: .\src\templates\about.html:56
 msgid "Training resources and materials citizen science as a practice"
 msgstr ""
-"Des ressources, des formations et du matériel liées auxde sciences "
+"Des ressources, des formations et du matériel liées aux sciences "
 "participatives"
 
 #: .\src\templates\about.html:57
@@ -1647,7 +1652,7 @@ msgid ""
 "Organisations that are involved in citizen science projects and research"
 msgstr ""
 "Des organisations qui sont impliquées dans des projets de sciences "
-"participatives et dela recherche"
+"participatives et en recherche"
 
 #: .\src\templates\about.html:58
 msgid "an"
@@ -1655,7 +1660,7 @@ msgstr "un"
 
 #: .\src\templates\about.html:58
 msgid "Events"
-msgstr ""
+msgstr "Evenements"
 
 #: .\src\templates\about.html:58
 msgid "calendar"
@@ -1670,7 +1675,7 @@ msgid ""
 "Community Forums for questions, conversations, and collaboration with the "
 "rest of the community."
 msgstr ""
-"Des FUn forums communautaire pour les questions, les discussions et la "
+"Des forums communautaire pour les questions, les discussions et la "
 "collaboration avec le reste de la communauté."
 
 #: .\src\templates\about.html:63
@@ -1680,7 +1685,7 @@ msgid ""
 "suggestion for us? Please share your thoughts in our community feedback "
 "forum or in the"
 msgstr ""
-"Vous trouvez qu’il manque quelque chose ? Vous pouvez créer vos propres "
+"Vous pensez qu’il manque quelque chose ? Vous pouvez créer vos propres "
 "Ressources, Projets et Formations en cliquant sur le bouton +ADD dans le "
 "menu du haut. Vous avez une suggestion ? Partagez-la dans le forum de notre "
 "communauté ou dans la"
@@ -1706,10 +1711,10 @@ msgid ""
 "for citizen science participants, practitioners, researchers, policy makers "
 "and society across Europe"
 msgstr ""
-"Le projet EU-Citizen.Science est soutenu par le programme Horizon 2020 de la "
+"Le projet EU-Citizen.Science est financé par le programme Horizon 2020 de la "
 "Commission Européenne, dans le programme Science avec et pour la Société "
-"(aussi connu comme SwafS). CLa mission de ce projet est ambitieux il a pour "
-"mission de créerambitieuxse : créer LA plateforme de référence pour tous les "
+"(aussi connu comme SwafS). Il a pour ambitieuxse mission de "
+"créer LA plateforme de référence pour tous les "
 "acteurs de la science citoyenne, les participants, les chercheurs, les "
 "décideurs politiques et l’ensemble de la société en Europe grâce au partage "
 "transversal des connaissances."
@@ -1723,7 +1728,7 @@ msgid ""
 "is that Citizen Science becomes an appreciated and widely established means "
 "for the democratization of science in Europe"
 msgstr ""
-"est que la science participative devienne un moyen répandu et apprécié de "
+"est que la science participative devienne un moyen privilégié de "
 "démocratisation des sciences en Europe."
 
 #: .\src\templates\about.html:89
@@ -1775,10 +1780,9 @@ msgid ""
 "diverse stakeholders to become citizen scientists, start CS initiatives, and "
 "implement CS approaches professionally"
 msgstr ""
-"les différentes des acteurs différentsparties prenantes pour qu’ilselles "
-"s’impliquentpratiquent la science participative, lancent des initiatives et "
-"intègrent de manière professionnelle les pratiques les  des sciences "
-"participativespratiques scientifiques dans leur contexte professionnel."
+"les différentes des acteurs pour qu’ils s’impliquent dans"
+"la science participative, lancent des initiatives et "
+"intègrent de manière professionnelle les pratiques dans leur contexte professionnel."
 
 #: .\src\templates\about.html:121
 msgid "Objective 4: Explore"
@@ -1788,7 +1792,8 @@ msgstr "Objectif n°4 : Explorer"
 msgid ""
 "new pathways for participatory governance, by strengthening links between CS "
 "and policy making"
-msgstr ""
+msgstr "de nouvelles voies pour une gouvernance participative, en renforçant les liens entre les sciences participatives "
+"et l'élaboration de politiques"
 
 #: .\src\templates\about.html:129
 msgid "Objective 5: Advance"
@@ -1799,8 +1804,8 @@ msgid ""
 "CS into the mainstream of public engagement, science communication and "
 "education"
 msgstr ""
-"lesa sciences participatives dans auprès de les politiques "
-"d’implication’engagement du public en science, la communication scientifique "
+"les sciences participatives dans les politiques "
+"d’engagement du public en science, ainsi que dans la communication scientifique "
 "et l’éducation."
 
 #: .\src\templates\about.html:137
@@ -1812,13 +1817,13 @@ msgid ""
 "requirements, and how we can build a community of engaged users of the "
 "Platform."
 msgstr ""
-"Conformément à notre mission, nous visons à nous engager de la même manièreà "
-"égalité avec les participants à la science citoyenne, les praticiens, les "
+"Conformément à notre mission, nous visons à nous engager de la même manière "
+"envers les participants à la science citoyenne, les praticiens, les "
 "chercheurs, les décideurs politiques et la société dans son ensemble tout au "
 "long du projet. Pour y parvenir efficacement, il est nécessaire de bien "
 "comprendre qui est notre public cible, ses besoins et ses exigences, et "
 "comment nous pouvons construire une communauté d'utilisateurs engagés de la "
-"Plateforme."
+"plateforme."
 
 #: .\src\templates\about.html:147
 msgid "The Team"
@@ -1834,8 +1839,8 @@ msgid ""
 msgstr ""
 "Le consortium EU-Citizen.Science est composé de 14 partenaires et de 9 "
 "tierces parties issus de 14 États membres européens, ainsi que d’autres "
-"soutiens. Nous représentons une variété de parties prenantes actives dans le "
-"domaine des la sciences participatives, notamment des universités, des "
+"soutiens. Nous représentons une variété d'acteurs du "
+"domaine des sciences participatives, notamment des universités, des "
 "organisations non gouvernementales, des autorités locales, des organisations "
 "de service communautaire et des musées."
 
@@ -1878,7 +1883,7 @@ msgid ""
 "citizen science, the following"
 msgstr ""
 "La science participative est un concept flexible qui peut être adapté et "
-"appliqué àdans différentes situations et disciplines. Afin de dégager ce que "
+"appliqué à différentes situations et disciplines. Afin de dégager ce que "
 "nous pensons être les quelques principes clés qui sont à la base de la bonne "
 "pratique de la science citoyenne, les"
 
@@ -1892,12 +1897,12 @@ msgid ""
 "group of the"
 msgstr ""
 "ont été développés par le groupe de travail 'Partage de bonnes pratiques et "
-"renforcement des capacités' de la"
+"renforcement des capacités' au sein de l'"
 
 #: .\src\templates\about.html:261
 msgid "European Citizen Science Association"
 msgstr ""
-"European Citizen Science Association (Aassociation européenne des sciences "
+"European Citizen Science Association (Association européenne des sciences "
 "participatives"
 
 #: .\src\templates\about.html:261
@@ -1920,8 +1925,8 @@ msgid ""
 "in the project."
 msgstr ""
 "Les projets de science participative impliquent les citoyens dans un effort "
-"scientifique qui génère de la nouvelle connaissance ou une meilleureouet "
-"meilleurede la compréhension. Les citoyens peuvent agir en tant que "
+"scientifique qui génère des nouvelles connaissances ou une meilleure "
+"compréhension de la science. Les citoyens peuvent agir en tant que "
 "contributeurs, collaborateurs, ou comme meneurs de projet et avoir un rôle "
 "significatif dans le projet."
 
@@ -2037,7 +2042,7 @@ msgid ""
 "quality, participant experience and wider societal or policy impact."
 msgstr ""
 "Les programmes des sciences participatives sont évalués sur base de leur "
-"résultat scientifique, de lala qualité des données, de l’expérience des "
+"résultat scientifique, de la qualité des données, de l’expérience des "
 "participants et de l’impact sociétal ou politique plus large."
 
 #: .\src\templates\about.html:282
@@ -2047,7 +2052,7 @@ msgid ""
 "agreements, confidentiality, attribution, and the environmental impact of "
 "any activities."
 msgstr ""
-"Les chefs de projets ende sciences participatives prennent en considération "
+"Les chefs de projets en sciences participatives prennent en considération "
 "les questions légales et éthiques liées au copyright, à la propriété "
 "intellectuelle, à l’accord du partage de données, à la confidentialité, à "
 "leurs ’attributions et à l'impactàl’impact environnemental de toute activité."
@@ -2151,8 +2156,8 @@ msgid ""
 "The EU-Citizen.Science consortium has curated a selection of Gold Star "
 "citizen science resources"
 msgstr ""
-"Le consortium EU-Citizen.Science a sélectionné des ressources en sciences "
-"participatives Gold Star de science participative"
+"Le consortium EU-Citizen.Science a sélectionné les resources les plus pertinentes "
+"pour la science participative"
 
 #: .\src\templates\curated.html:28
 msgid ""
@@ -2160,7 +2165,7 @@ msgid ""
 "science project, categorised across the project lifecycle."
 msgstr ""
 "pour vous aider à commencer à concevoir et lancer votre propre projet de "
-"science citoyenne, organiséorganisées selon le cycle de vie du projet."
+"science citoyenne, organisées selon le cycle de vie du projet."
 
 #: .\src\templates\faq.html:20
 msgid "Frequently Asked Questions"
@@ -2171,13 +2176,13 @@ msgid ""
 "Welcome to the platform for sharing Citizen Science projects, resources, "
 "tools, and training"
 msgstr ""
-"Bienvenue sur la plateforme de partage des projetsct, ressources, outils et "
+"Bienvenue sur la plateforme de partage des projets, ressources, outils et "
 "formations en sciences participatives."
 
 #: .\src\templates\home.html:41
 msgid ""
 "Search for citizen science resources, projects, tools, training, and more...."
-msgstr ""
+msgstr "Recherchez des ressources, projets, outils, formations..."
 
 #: .\src\templates\home.html:66
 msgid "in Projects"
@@ -2218,7 +2223,7 @@ msgstr "Projet"
 
 #: .\src\templates\modalinfo.html:15
 msgid "Create a Citizen Science Project profile"
-msgstr "Créer un profil de Projet ende sciences participatives"
+msgstr "Créer un profil de Projet de sciences participatives"
 
 #: .\src\templates\modalinfo.html:16 .\src\templates\resources_cards.html:33
 msgid "Resource"
@@ -2227,7 +2232,7 @@ msgstr "Ressource"
 #: .\src\templates\modalinfo.html:17
 msgid "Create a profile for a Resource that is relevant for Citizen Science"
 msgstr ""
-"Créer un profil pour une Ressource pertinente pour lesa sciences "
+"Créer un profil pour une Ressource pertinente pour les sciences "
 "participatives"
 
 #: .\src\templates\modalinfo.html:19
@@ -2235,24 +2240,24 @@ msgid ""
 "Create a profile for Training and Education Material related to the practice "
 "of Citizen Science"
 msgstr ""
-"Créer un profil pour une Formation ou du Matériel ÉducatifEducatif lié à la "
+"Créer un profil pour une Formation ou du Matériel Éducatif lié à la "
 "pratique des la sciences participatives"
 
 #: .\src\templates\modalinfo.html:21
 msgid "Create a profile for your Organisation"
-msgstr "Créer un profile pour votre Oorganisation"
+msgstr "Créer un profile pour votre Organisation"
 
 #: .\src\templates\modalinfo.html:23
 msgid "Event"
-msgstr ""
+msgstr "Evénement"
 
 #: .\src\templates\modalinfo.html:24
 msgid "Create an Event"
-msgstr ""
+msgstr "Créer un événement"
 
 #: .\src\templates\moderation.html:10
 msgid "The moderation process"
-msgstr "La procédure de validationmodération"
+msgstr "La procédure de modération"
 
 #: .\src\templates\projects_cards.html:20
 #: .\src\templates\resources_cards.html:15
@@ -2290,12 +2295,12 @@ msgstr "Projets présentés"
 #: .\src\templates\resources_cards_horizontal.html:45
 #: .\src\templates\resources_cards_short.html:30
 msgid "Read more"
-msgstr "En savoirLire plus"
+msgstr "En savoir plus"
 
 #: .\src\templates\registration\logged_out.html:9
 msgid "Thanks for spending some quality time with the Web site today."
 msgstr ""
-"Merci d’avoir passé un peu dedu votre temps précieuxde qualité sur notre "
+"Merci d’avoir passé du temps sur notre "
 "site web aujourd’hui."
 
 #: .\src\templates\registration\logged_out.html:11
@@ -2380,7 +2385,7 @@ msgid ""
 "correctly."
 msgstr ""
 "Veuillez saisir deux fois votre nouveau mot de passe pour que nous vérifions "
-"si vous l’avez entrétapé correctement."
+"si vous l’avez écrit correctement."
 
 #: .\src\templates\registration\password_reset_confirm.html:25
 msgid "New password:"
@@ -2443,4 +2448,4 @@ msgid "Last updated"
 msgstr "Dernière mise à jour"
 
 #~ msgid "Teaser video"
-#~ msgstr "Vidéo d'appelintroduction 'Teaser'"
+#~ msgstr "Vidéo de présentation"
